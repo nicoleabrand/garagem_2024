@@ -1,5 +1,5 @@
 from .user import User
 from .acessorio import Acessorio
 from .cor import Cor
-from .modelos import Modelo
-from .veiculos import Veiculo
+from .modelo import Modelo
+from .veiculo import Veiculo
